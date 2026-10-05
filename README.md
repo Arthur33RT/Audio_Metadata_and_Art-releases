@@ -30,8 +30,13 @@ No installer is needed.
 - Settings and API keys are stored locally on your computer.
 - This is an early release (v0.1.x). Expect rough edges.
 
-## License and terms
+## License
 
 The Audio Metadata & Art application is released under the [MIT License](LICENSE).
-Third-party components keep their own licenses.
+
+## Third-party components
+
+- [WPF-UI](https://github.com/lepoco/wpfui) (MIT)
+- [FFME.Windows](https://github.com/unosquare/ffmediaelement) (MIT)
+- FFmpeg is not included. You download it separately under its own license.
 
